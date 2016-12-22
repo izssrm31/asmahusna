@@ -1,0 +1,493 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.8.3",
+    "uniqCompNum": 0,
+    "versionPublish": "3.8.3",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#41a85f",
+        "secondaryColor": "#a38f84",
+        "successColor": "#2969b0",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#eb6b56",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Oswald",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Students/Desktop/MOBIRISE%20PERPISAHAN",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "assets/images/galaxy-wallpapers-22-1-2000x1125-43.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#d14841"
+          },
+          "text": "CAMMCCOY19@GMAIL.COM"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fac51c"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "assets/images/think-positive-picture-2000x1283-6.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "SELAMAT DATANG",
+          "text": "SAYA NURASMAHUSNA BINTI HAMDAN <br>MULTIMEDIA <br>SEMESTER 2<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "assets/images/galaxy-wallpapers-22-1-2000x1125-43.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#d14841"
+          },
+          "text": "CAMMCCOY19@GMAIL.COM"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H3": {
+              "color": "#f3c649"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#a38f84",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/img-8888-1400x1866-77.jpg",
+              "link": "page1.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTRO<br>",
+          "text": "NURASMAHUSNA BINTI HAMDAN<br>MULTIMEDIA SEMESTER 2<br>P10SKP0323<br>IKBN KUALA LANGAT<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "footer1-p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "assets/images/galaxy-wallpapers-22-1-2000x1125-43.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#d14841"
+          },
+          "text": "CAMMCCOY19@GMAIL.COM"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "assets/images/header-blog-1400x565-34.jpg",
+              "link": "page2.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "TUJUAN<br>&nbsp;",
+          "text": "Majlis Persaraan adalah aktiviti yang dijalankan setiap kali ada warga sekolah yang bersara dari perkhidmatan  di sekolah ini sama ada guru mahu pun staf sekolah.  Melalui aktiviti yang dijalankan, ia merupakan satu acara bagi menghargai warga kerja yang telah lama berkhidmat di sekolah dan diberikan penghargaan untuk memaklumkan kepada semua warga sekolah bahawa perkhidmatan mereka telah berakhir. Melalui program yang dijalankan, ia dapat  memupuk sifat menghargai orang lain, mengambil tahu dan meraikan seseorang pada hari yang istimewa agar menjadi kenangan terakhir di sekolah dengan cara yang dikenang sepanjang masa. Berdasarkan kepada dasar yang diperkenalkan oleh KPM mengenai Dasar Warga Emas Negara (DWEN) mengenai warga emas yang masih boleh menyumbang kepada komuniti untuk diberikan penghargaan dan pengiktirafan, diharapkan majlis ini dapat memberikan impak kepada  golongan muda agar sentiasa bekerja dengan tekun dan ikhlas agar sentiasa menjadi contoh agar diri dihargai sehingga ke hari terakhir perkhidmatan mereka. Malah mereka juga masih boleh memberi sumbangan kepada komuniti walaupun   mereka sudah bersara.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {},
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H3": {
+              "text-align": "right",
+              "color": "#00a885"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-4",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/dsc-9645-1400x926-46.jpg",
+              "link": "page3.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "OBJEKTIF PROGRAM<br>&nbsp;",
+          "text": "* Agar dapat meraikan guru yang bersara dengan penghormatan &nbsp; &nbsp; &nbsp; dari warga&nbsp;Sekolah<br><br>*&nbsp;Agar guru yang bersara  dapat berkongsi pengalaman kepada warga sekolah&nbsp;Untuk dijadikan panduan dan ikhtibar<br><br>*&nbsp;Memupuk semangat menghargai di dalam diri dengan pemberian ikhlas dari sudut&nbsp;Emosi, sahsiah dan bahasa dalam akitiviti yang dijalankan . <br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            "P": {
+              "color": "#e25041",
+              "font-size": "20px"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "assets/images/14449988-10202210982112951-4911965746617217070-n-1400x462-38.jpg",
+              "link": "page4.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "GURU&nbsp;",
+          "text": "Para guru adalah pahlawan tanpa tanda jasa. Guru ibarat cahaya yang hadir dalam kehidupan kita. Guru yang merupakan sebuah lentera dan telah memberikan ilmunya kepada kita dalam sebuah kehidupan yang panjang, sehingga kita dapat mengharunginya dengan penuh rasa percaya diri. Jasanya hingga sampai bila-bila masa akan tetap selalu dikenang dan tidak akan dapat dilupakan. Kita boleh meraih kejayaan kerana bimbingan para guru, mengajar tanpa mengenal rasa lelah dan penuh dengan kesabaran. Oleh sebab itu, sudah selayaknya kita menghormati jasa-jasanya yang mengajar kita sehingga kita dapat mewujudkan mimpi-mimpi kita.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "assets/images/galaxy-wallpapers-22-1-2000x1125-43.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#d14841"
+          },
+          "text": "CAMMCCOY19@GMAIL.COM"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "header1-6",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "assets/images/terimakasih-guru-5656e0586623bd260a974186-2000x1333-78.jpg",
+            "bgColor": "#f28281",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "TOLONG HARGAI KEHADIRAN MEREKA DISISI ANDA&nbsp;<br><br>",
+          "text": "\"Kami sangat bersyukur telah menjadi muridmu. Sebagai guru anda bukan hanya mengajar kami, akan tetapi selalu mendidik kami dengan kasih sayang. Terima kasih guru, kau telah mewujudkan semua mimpi-mimpi kami \" <br><br><br>\"Terima kasih untuk semua dedikasimu, terima kasih untuk semua pengorbananmu, terima kasih untuk semua perhatianmu wahai guruku\"<br><br><br>\"Terima kasih guru, kau adalah orang yang berpengaruh dalam hidup kami. Kau telah membantu kami dalam mencari jati diri kami, serta potensi didalam hidup kami \"<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">THANKYOU!&nbsp;</a> "
+        }
+      ]
+    }
+  }
+}
